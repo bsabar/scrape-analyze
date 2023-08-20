@@ -22,10 +22,10 @@ This project is geared to extract and analyze Mars news articles and weather dat
 ### Part 2: Scrape and Analyze Mars Weather Data 
 - The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types.
 - The data was analyzed to answer the following questions: 
--- How many months exist on Mars? 
--- How many Martian days' worth of data are there? 
+   - How many months exist on Mars?
+   - How many Martian days' worth of data are there? 
 - The data was analyzed to answer the following questions and data visualization was created to support each answer:
--- Which month, on average, has the lowest temperature? The highest? 
--- Which month, on average, has the lowest atmospheric pressure? The highest? 
--- How many terrestrial days exist in a Martian year? A visual estimate of 25% was made. 
--- The DataFrame was exported into a CSV file. 
+   - Which month, on average, has the lowest temperature? The highest? 
+   - Which month, on average, has the lowest atmospheric pressure? The highest? 
+   - How many terrestrial days exist in a Martian year? A visual estimate of 25% was made.
+- The DataFrame was exported into a CSV file. 
